@@ -7,9 +7,10 @@ Explore recipes, discover new dishes, and enjoy a clean, flavourful interface.
 
 ## 🌟 Preview
 
-| Home Screen                     | Recipe Screen                       | Logo                            | Start Screen                      |
-| ------------------------------- | ----------------------------------- | ------------------------------- | --------------------------------- |
-| ![Home](./Screenshots/Home.png) | ![Recipe](./Screenshots/Recipe.png) | ![Logo](./Screenshots/Logo.png) | ![Start](./Screenshots/Start.png) |
+| Logo | Start Screen | Home Screen | Recipe Screen |
+|------|---------------|--------------|----------------|
+| ![Logo](./Screenshots/Logo.png) | ![Start](./Screenshots/Start.png) | ![Home](./Screenshots/Home.png) | ![Recipe](./Screenshots/Recipe.png) |
+
 
 ---
 
