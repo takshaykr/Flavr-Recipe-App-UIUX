@@ -69,5 +69,3 @@ Flavr-Recipe-App-UIUX/
 If you liked this design, **star** ⭐ the repository to show your support!
 
 ---
-
-Would you like me to make it more **modern and colorful with emojis and badges (like Figma badge, LinkedIn icon, etc.)** — or keep it **minimal and professional** like this?
